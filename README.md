@@ -30,7 +30,7 @@ This repository contains the code and simulations used to generate the results p
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/HigoTh/af_noma.git
+   git clone https://github.com/HigoTh/afnoma.git
    cd your-repository
    ```
 
@@ -55,7 +55,7 @@ This repository contains the code and simulations used to generate the results p
    You can open the notebook with Jupyter:
 
    ```bash
-   jupyter notebook paper_simulations.ipynb
+   jupyter notebook simulations.ipynb
    ```
 
 ## About the `af_noma` Package
